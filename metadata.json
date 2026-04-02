@@ -1,0 +1,5 @@
+{
+  "name": "CarePoint - 어르신 건강 파트너",
+  "description": "어르신들의 건강 관리를 돕는 스마트 파트너 앱입니다. 복약 알림, 건강 수치 기록, 식사 일기 등을 제공합니다.",
+  "requestFramePermissions": []
+}
